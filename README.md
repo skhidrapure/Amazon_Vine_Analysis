@@ -47,4 +47,4 @@ A few conculsion can be drawn from this dataset & analysis, one is that there is
 
 What we see in this analysis is that, the analysis does not take into consideration whether or not those who left a review were able to view previous reviews of others before they made their own review of the video game. Positive reviews may influence others to also leave positive reviews or lessen the negative impact of the review.
 
-One additional analysis I would suggest, is that to perform the analysis on a similar stream of products. By assessing any bias in another dataset that strengthens the results of this dataset.
+One additional analysis I would suggest, is that to perform the analysis on a similar stream of products. By assessing any bias in another dataset that could strengthen the results of this dataset.
